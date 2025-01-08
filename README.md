@@ -6,7 +6,7 @@ Desenvolvedor em formação Entusiasta por criar interfaces incríveis e resolve
 
 ## Sobre mim
 
-- 💻 **Stack:** React, Next.js, TypeScript, Node.js, PostgreSQL
+- 💻 **Stack:** React, Next.js, TypeScript, PostgreSQL
 - 🌱 **Estudando:** C# e boas práticas
 - 📚 **Projetos recentes:** 
   - [BookWise](https://github.com/danielpvpao/BookWise) - Avaliação de livros e comentários
